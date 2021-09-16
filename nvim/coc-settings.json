@@ -1,0 +1,32 @@
+{
+	"vetur.ignoreProjectWarning": true,
+	"vetur.format.options.useTabs": true,
+	"vetur.format.options.tabSize": 4,
+	/* "vetur.format.defaultFormatter.html": "prettier", */
+	/* "vetur.format.defaultFormatter.js": "prettier", */
+	/* "vetur.format.defaultFormatter.css": "prettier", */
+	/* "vetur.format.defaultFormatter.ts": "prettier", */
+	/* "vetur.format.defaultFormatter.scss": "prettier", */
+	/* "vetur.format.defaultFormatter.postcss": "prettier", */
+	"vetur.format.defaultFormatterOptions": {
+		"prettier": {
+			"semi": false,
+			"singleQuote": true,
+			"tabWidth": 4,
+			"useTabs": true,
+			"printWidth": 80,
+			"trailingComma": "es5"
+		}
+	},
+	"coc.preferences.formatOnSaveFiletypes": ["*"],
+	"prettier.tabWidth": 4,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "es5",
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"javascript.autoClosingTags": true,
+	"eslint.autoFixOnSave": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.printWidth": 80,
+	"javascript.suggestionActions.enabled": false
+}
